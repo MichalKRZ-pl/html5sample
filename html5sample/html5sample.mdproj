@@ -10,6 +10,6 @@
     <OutputPath>.\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\Index.html" />
+    <None Include="..\index.html" />
   </ItemGroup>
 </Project>
