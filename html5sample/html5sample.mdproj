@@ -11,5 +11,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\index.html" />
+    <None Include="..\css\global2.css" />
   </ItemGroup>
 </Project>
